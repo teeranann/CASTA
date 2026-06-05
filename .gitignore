@@ -1,0 +1,9 @@
+# Test media / large binaries
+*.avi
+*.mp4
+*.mov
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
