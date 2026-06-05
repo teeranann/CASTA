@@ -1,0 +1,34 @@
+CASTA - Contact Angle and Surface Tension Analyzer
+==================================================
+
+Copyright (c) 2026 Teeranan Nongnual. All rights reserved.
+
+Author / developer:
+  Teeranan Nongnual <teeranan.no@buu.ac.th>
+  Department of Chemistry, Faculty of Science,
+  Burapha University, Chonburi 20131, Thailand
+
+Licensing
+---------
+Software (the CASTA analyzer):
+  PolyForm Noncommercial License 1.0.0  (see LICENSE)
+Documentation, images, and sample data:
+  Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+  <https://creativecommons.org/licenses/by-nc/4.0/>
+
+You MAY: use, study, modify, and share this work for noncommercial purposes
+(education, research, schools, universities), provided you keep this notice
+and attribute the source.
+
+You MAY NOT: sell this software or its code, or use it for commercial purposes,
+without written permission.
+
+Commercial licensing / permissions: contact
+Teeranan Nongnual <teeranan.no@buu.ac.th>.
+
+Funding
+-------
+Developed with support from Burapha University (BUU) and the Thailand Science
+Research and Innovation (TSRI).
+
+When using this work in academic output, please cite it (see CITATION.cff).

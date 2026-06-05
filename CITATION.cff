@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use CASTA in academic work, please cite it as below."
+title: "CASTA - Contact Angle and Surface Tension Analyzer (drop-shape analysis tool)"
+abstract: >-
+  A desktop application (Python, Tkinter, OpenCV) for drop-shape analysis from
+  images and videos: sessile-drop contact angle and pendant-drop surface
+  tension, with scale calibration, ROI/baseline selection, and profile fitting.
+type: software
+authors:
+  - family-names: Nongnual
+    given-names: Teeranan
+    email: teeranan.no@buu.ac.th
+    affiliation: "Department of Chemistry, Faculty of Science, Burapha University, Chonburi, Thailand"
+repository-code: "https://github.com/teeranann/CASTA"
+url: "https://github.com/teeranann/CASTA"
+license-url: "https://polyformproject.org/licenses/noncommercial/1.0.0"
+keywords:
+  - contact angle
+  - surface tension
+  - drop shape analysis
+  - sessile drop
+  - pendant drop
+  - wettability
+  - image analysis
+date-released: "2026-06-05"
+notes: >-
+  Copyright (c) 2026 Teeranan Nongnual. Software: PolyForm Noncommercial 1.0.0;
+  documentation, images, and data: CC BY-NC 4.0. Developed with support from
+  Burapha University (BUU) and Thailand Science Research and Innovation (TSRI).
